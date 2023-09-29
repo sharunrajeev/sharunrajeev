@@ -8,7 +8,7 @@
 
 
 Hi there 👋! \
-I'm Sharun, B.Tech undergrad at CUSAT. I am a self taught Full Stack Developer, currently working on my own projects. I am passionate about building things that live on the internet, and I love learning about new technologies and how to make them work for the good of the web.
+I'm Sharun, Developer at Tata Consultancy Services. I am a self taught Full Stack Developer, currently working on my own projects. I am passionate about building things that live on the internet, and I love learning about new technologies and how to make them work for the good of the web.
 
 - 🔭 I’m currently working on Personal Webpage. 
 - 🌱 I’m currently learning Next.js, Flutter.
